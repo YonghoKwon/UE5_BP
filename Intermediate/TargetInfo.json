@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE5_BP",
+			"Path": "/Users/kwon-yongho/Documents/Unreal Projects/UE5_BP/Source/UE5_BP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE5_BPEditor",
+			"Path": "/Users/kwon-yongho/Documents/Unreal Projects/UE5_BP/Source/UE5_BPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

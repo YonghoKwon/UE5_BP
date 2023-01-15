@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/kwon-yongho/Documents/Unreal Projects/UE5_BP/Source/UE5_BP/UE5_BP.Build.cs",
+		"/Users/kwon-yongho/Documents/Unreal Projects/UE5_BP/Source/UE5_BP.Target.cs",
+		"/Users/kwon-yongho/Documents/Unreal Projects/UE5_BP/Source/UE5_BPEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
